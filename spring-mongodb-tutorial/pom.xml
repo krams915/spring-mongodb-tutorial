@@ -278,12 +278,5 @@
 		<url>https://repository.jboss.org/nexus/content/repositories/releases</url>
 	</repository>
 	
-	<!-- Repo for maven-copy-plugin -->
-	<repository>
-		<id>evgeny-goldin.org</id>
-		<name>Evgeny Goldin Repository</name>
-		<url>http://evgeny-goldin.org/artifactory/repo/</url>
-	</repository>
-	
   </repositories>
 </project>

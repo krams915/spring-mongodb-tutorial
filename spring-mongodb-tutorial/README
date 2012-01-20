@@ -1,0 +1,18 @@
+Description
+===========
+Sample application demonstrating how to create a Spring MVC 3.1 application with Spring Data MongoDB 
+
+To read the whole guide, please see the original blog:
+
+"Spring MVC 3.1 - Implement CRUD with Spring Data MongoDB"
+[url]
+
+
+Building
+========
+Please visit [url] for full instructions
+
+
+Notes
+=====
+For more tutorials, please visit http://krams915.blogspot.com/
